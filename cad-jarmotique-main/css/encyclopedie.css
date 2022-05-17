@@ -1,0 +1,30 @@
+/* BACKGROUND */
+
+.bg-green-dark {
+    background-color: #307E00;
+}
+.bg-green {
+    background-color: #58AC25;
+}
+
+
+/* BOX */
+.box-card a  {
+    color: white;
+    text-decoration: none;
+}
+.box-card a:hover{
+    color: #312401;
+}
+
+.box-text {
+    width: 70%;
+    height: auto;
+}
+
+.box-file{
+width:80%;
+height:auto;
+background-color: white;
+
+}
