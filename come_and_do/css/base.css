@@ -1,0 +1,38 @@
+/* BODY */
+body {
+   
+}
+
+
+/* COLORE */
+.green {
+    color: #58AC25;
+}
+.green-dark {
+    color: #307E00;
+}
+.brown {
+    color: #312401;
+}
+.white {
+    color: #FFFFFF;
+}
+.red {
+    color: #E14942;
+}
+.blue{
+    color: #038F9E;
+}
+.white{
+    color: #FFFFFF;
+}
+
+
+/* FOOTER */
+
+.footer {
+    color: white;
+    background-color: #312401;
+    width: auto;
+    height: 8.6rem;
+}
